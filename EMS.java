@@ -10,7 +10,7 @@ class EMSMenu {
         System.out.println("\n\t==============================");
         System.out.println("\t  Employee Management System");
         System.out.println("\t==============================");
-        System.out.println("\t       ~ Designed by You ~");
+        System.out.println("\t       ~ Designed by Riya Shukla ~");
         System.out.println("\nChoose an option:");
         System.out.println("1 - Add New Employee");
         System.out.println("2 - View Employee Details");
